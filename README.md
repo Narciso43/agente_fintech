@@ -203,13 +203,25 @@ Este proyecto es de código abierto bajo la Licencia MIT. Si deseas contribuir, 
 ## 📸 Evidencias
 
 ### Pantalla principal
-![Pantalla principal](screenshots/main_screen.png)
+![Pantalla principal](pantalla_principal.png)
 
 ### Consulta de estadísticas
-![Estadísticas de saldos](screenshots/stats_query.png)
+![Estadísticas de saldos](estadisticas_descriptivas.png)
 
-### Generación de gráfico
-![Gráfico de movimientos](screenshots/chart_example.png)
+### Resumen  de Clientes
+![Gráfico de movimientos](resumen_clientes.png)
 
-### Despliegue en Streamlit Cloud
-![Deploy en la nube](screenshots/cloud_deploy.png)
+### Targetas  de Despliegue
+![Deploy en la nube](targetas_despliegue.png)
+
+### Consulta de Reclamo
+![Deploy en la nube](plazo_de_reclamo.png)
+
+### Consulta de Ley Fintech
+![Deploy en la nube](consulta_ley_fintech.png)
+
+### Targetas  de Despliegue
+![Deploy en la nube](targetas_despliegue.png)
+
+### Pregunta Aleatoria
+![Deploy en la nube](pregunta_abierta.png)
